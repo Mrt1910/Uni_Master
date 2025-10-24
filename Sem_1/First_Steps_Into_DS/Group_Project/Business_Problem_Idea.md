@@ -6,7 +6,7 @@ Use the data provided to identify why customers churn. After identifying the dat
 - Dataset link: https://www.kaggle.com/datasets/blastchar/telco-customer-churn
 - Testing + Training Dataset link: https://www.kaggle.com/datasets/muhammadshahidazeem/customer-churn-dataset
   - In case this is not enough, generate new training data sets via GPT using the original dataset as a template.
-
+<br>
 
 ## Problem statement 2: Customer Purchase behaviour
 Use the provided data to identify purchasing patterns of customers and design a model to offer more interesting deals for customers.
